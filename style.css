@@ -41,3 +41,15 @@ body{
 .estudante-imagem{
     width: 120px;
 }
+.estudante-icone{
+    width: 24px;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 50px o;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% ;
+    width: 120px;
+}
